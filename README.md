@@ -1,0 +1,1 @@
+# kono-Binary-number-er-k_th-bit-1-korte-caile.cpp
